@@ -6,6 +6,7 @@ requires = [
     'PyJWT>=0.1.4',
     'iso8601>=0.1.4',
     'six',
+    'Flask>=0.9',
 ]
 
 def read(*paths):
